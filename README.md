@@ -1,2 +1,18 @@
-# 2D-Platform-Game
+# 2D-Platform-Game (PC)
  
+PC için tasarlanmış 2 boyutlu dungeon platform projemdir. İndirmek için Comressed(sıkıştırılmış) yada Uncompressed(sıkıştırılmamış) klasörlerinden birini indirmeniz yeterlidir.
+
+>1 - 2 - 3 tuşları ile karakterin silahları arasında geçiş yapabilirsiniz.
+
+
+
+This is my 2D dungeon platform project designed for PC. To download it, simply download one of the Compressed or Uncompressed folders.
+
+>You can switch between the character's weapons using the 1 - 2 - 3 keys.
+
+## Oyundan Görseller | Screenshots:
+
+![This is an alt text.](/Screenshots/1.jpg "Image 1")
+![This is an alt text.](/Screenshots/2.jpg "Image 2")
+![This is an alt text.](/Screenshots/3.jpg "Image 3")
+![This is an alt text.](/Screenshots/4.jpg "Image 4")
